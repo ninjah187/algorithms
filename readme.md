@@ -1,0 +1,1 @@
+Various implementations of algorithms. Made for fun and education. Feel free to use whatever you need.
